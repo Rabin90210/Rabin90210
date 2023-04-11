@@ -1,10 +1,7 @@
-
-<img align="right" alt="Coding" width="600" src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg">
+<img align="right" alt="Coding" width="1200" src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg">
 <h1 align="center">Hi 👋, I'm Rabin Bhandari</h1>
 <h3 align="center">A passionate frontend developer from Down Under (Australia)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabin90210" alt="rabin90210" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio**
 
